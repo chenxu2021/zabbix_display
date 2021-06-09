@@ -11,6 +11,9 @@
 zabbix-server + zabbix_agent + redis-server + mysql-server + nginx
 
 初步效果图展示：
-
+![Alt text](https://github.com/chenxu2021/zabbix_display/edit/master/host.png)
+![Alt text](https://github.com/chenxu2021/zabbix_display/edit/master/cpu.png)
+![Alt text](https://github.com/chenxu2021/zabbix_display/edit/master/mem.png)
+![Alt text](https://github.com/chenxu2021/zabbix_display/edit/master/disk.png)
 
 
